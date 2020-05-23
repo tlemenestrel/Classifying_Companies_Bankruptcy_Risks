@@ -6,8 +6,7 @@ This project is a Machine Learning model to predict companies' bankruptcies base
 
 ## Dataset
 
-The dataset contains data from the NHS.
-
+This data set has been sourced from the Machine Learning Repository of the University of California.
 
 ## How to download a copy of the project
 
