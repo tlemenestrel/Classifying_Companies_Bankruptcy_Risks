@@ -1,4 +1,4 @@
-![Image of Credit Card](https://github.com/tlemenestrel/Classifying_Companies_Bankruptcy_Risks/blob/master/Images/Banruptcy.jpg)
+![Image of Credit Card](https://github.com/tlemenestrel/Classifying_Companies_Bankruptcy_Risks/blob/master/Images/Bankruptcy.jpg)
 
 # Classifying Companies Bankruptcy Risks
 
