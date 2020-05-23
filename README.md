@@ -1,4 +1,4 @@
-![Image of Coronavirus](https://github.com/tlemenestrel/Coronavirus_Risk_Model/blob/master/Images/coronavirus.jpg)
+![Image of Credit Card](https://github.com/tlemenestrel/Classifying_Companies_Bankruptcy_Risks/blob/master/Images/Banruptcy.jpg)
 
 # Classifying Companies Bankruptcy Risks
 
